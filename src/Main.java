@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println("00101001010");
 
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 17; i++) {
             System.out.println(i);
 
         }
